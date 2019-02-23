@@ -1,2 +1,2 @@
 # firebasehosting
-This is a repo that will help anyone get started with firebase hosting. 
+This is a repo that will help anyone get started with firebase hosting. I am currently in a competition with other individuals who were given the free AVR-IOT board. I made it very far on the first day that I received my board, but I couldn't figure out how to pull the data from firebase into a web application. So, I figure I should just figure out how to use firebase hosting. Then build a boilerplate for apps. Then get my project going. 
